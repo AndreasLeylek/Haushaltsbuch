@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 04 16:41:31 CET 2025:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): Instanz a816c00e-0194-d19f-b2bc-00003dd18b28
+für Datenbankverzeichnis C:\Datenbanken\Database_Folder mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ab2bfe1
+Geladen aus file:/C:/Users/Andre/OneDrive/Desktop/Java/db-derby-10.16.1.1-bin/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.1+9-29
+user.dir=C:\Users\Andre\git\repository\Haushaltsbuch
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
